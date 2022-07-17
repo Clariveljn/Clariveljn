@@ -1,6 +1,6 @@
 ### Hi there 👋, mi nombre es Clarivel Jeldres
 #### Soy FrontEnd Developer
-[<img src='banner github' alt='github' height='40'>](https://github.com/Clariveljn)
+<img src='Banner Github.gif' height='360'>
 
 Me interesa desarrollarme laboralmente construyendo paginas web dinámicas y adaptables a distintos dispositivos, para entregar una mejor experiencia de usuario.
 
