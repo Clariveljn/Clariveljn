@@ -2,7 +2,8 @@
 #### Soy FrontEnd Developer
 <img src='Banner Github.gif' height='360'>
 
-Me interesa desarrollarme laboralmente construyendo paginas web dinámicas y adaptables a distintos dispositivos, para entregar una mejor experiencia de usuario.
+Me interesa desarrollarme laboralmente construyendo paginas web dinámicas y adaptables a distintos dispositivos, 
+para entregar una mejor experiencia de usuario.
 
 
 Skills:  JS / REACT / HTML / CSS/ GITHUB
