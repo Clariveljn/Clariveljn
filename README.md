@@ -8,7 +8,7 @@ para entregar una mejor experiencia de usuario.
 
 **Habilidades y herramientas:**  JS / REACT / HTML / CSS/ GITHUB / FIGMA / SLACK
 
-- 🔭 Actualmente estoy trabajando en el proyecto **Lab Note** 
+- 🔭 Actualmente estoy trabajando en el proyecto **Burguer  Queen** 
 - 🌱 Actualmente estoy aprendiendo **React, Firebase**
 
 
