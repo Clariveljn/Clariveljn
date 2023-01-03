@@ -10,6 +10,6 @@ para entregar una mejor experiencia de usuario.
 **Habilidades y herramientas:**  JS / REACT / HTML / CSS/ GITHUB / FIGMA / SLACK
  
 - 🌱 Actualmente estoy aprendiendo **React, Firebase, Tailwindcss**
-- Proyecto Actual **Registro de pedidos de una pasteleria**, realizado utilizando JavaScript, React, Tailwindcss
+- Proyecto Actual **CRM - React**, realizado utilizando JavaScript, React, Tailwindcss
 
 
